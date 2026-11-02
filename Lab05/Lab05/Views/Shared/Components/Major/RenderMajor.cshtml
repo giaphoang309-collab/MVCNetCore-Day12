@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Lab05.Models.Major>
+
+<ul class="nav">
+    @foreach (var i in Model)
+    {
+        <li class="nav-item" id="@i.MajorID">
+            <a class="nav-link" style="cursor:pointer">@i.MajorName</a>
+        </li>
+    }
+</ul>
