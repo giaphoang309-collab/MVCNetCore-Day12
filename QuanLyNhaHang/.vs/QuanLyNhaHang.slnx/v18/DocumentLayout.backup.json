@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F51291-7069-45B5-BD83-A15831625E2F}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\laptrinh\\netcoremvc-day12\\quanlynhahang\\quanlynhahang\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6F51291-7069-45B5-BD83-A15831625E2F}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F51291-7069-45B5-BD83-A15831625E2F}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\quanlynhahang\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F51291-7069-45B5-BD83-A15831625E2F}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F51291-7069-45B5-BD83-A15831625E2F}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\quanlynhahang\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F51291-7069-45B5-BD83-A15831625E2F}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBaoCao.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\QuanLyNhaHang\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\frmBaoCao.cs",
+              "ToolTip": "D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\QuanLyNhaHang\\frmBaoCao.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHang\\frmBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:44:39.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKhach.cs",
+              "DocumentMoniker": "D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\QuanLyNhaHang\\frmKhach.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\frmKhach.cs",
+              "ToolTip": "D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\QuanLyNhaHang\\frmKhach.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\frmKhach.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:32:30.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBaoCao.cs",
+              "DocumentMoniker": "D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\QuanLyNhaHang\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\frmBaoCao.cs",
+              "ToolTip": "D:\\laptrinh\\NetCoreMVC-Day12\\QuanLyNhaHang\\QuanLyNhaHang\\frmBaoCao.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\frmBaoCao.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAwLwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:08:21.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
