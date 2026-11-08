@@ -4,9 +4,11 @@ D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmBaoCao.resources
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmKhach.resources
-D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmNhanSu.resources
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
 D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ucKhach.resources
+D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ucNhanSu.resources
+D:\laptrinh\NetCoreMVC-Day12\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ucBaoCao.resources
