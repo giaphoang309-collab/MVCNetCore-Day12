@@ -51,38 +51,29 @@
     <Compile Include="DAL\DatabaseHelper.cs" />
     <Compile Include="DAL\KhachHangDAL.cs" />
     <Compile Include="DAL\NhanVienDAL.cs" />
-    <Compile Include="frmBaoCao.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmBaoCao.Designer.cs">
-      <DependentUpon>frmBaoCao.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmKhach.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmKhach.Designer.cs">
-      <DependentUpon>frmKhach.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmNhanSu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmNhanSu.Designer.cs">
-      <DependentUpon>frmNhanSu.cs</DependentUpon>
-    </Compile>
     <Compile Include="Models\BaoCao.cs" />
     <Compile Include="Models\Khach.cs" />
     <Compile Include="Models\NhanVien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmBaoCao.resx">
-      <DependentUpon>frmBaoCao.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmKhach.resx">
-      <DependentUpon>frmKhach.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmNhanSu.resx">
-      <DependentUpon>frmNhanSu.cs</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="ucBaoCao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBaoCao.Designer.cs">
+      <DependentUpon>ucBaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucKhach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucKhach.Designer.cs">
+      <DependentUpon>ucKhach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNhanSu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNhanSu.Designer.cs">
+      <DependentUpon>ucNhanSu.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -93,6 +84,15 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ucBaoCao.resx">
+      <DependentUpon>ucBaoCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucKhach.resx">
+      <DependentUpon>ucKhach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNhanSu.resx">
+      <DependentUpon>ucNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
